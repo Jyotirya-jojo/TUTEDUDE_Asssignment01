@@ -19,4 +19,4 @@ Jyotirya Gupta
 B.E. CSE Student — Institute of Engineering, Jiwaji University, Gwalior
 GitHub: https://github.com/Jyotirya-jojo
 
-Thankyou and have a good day!
+## Thankyou and have a good day!
