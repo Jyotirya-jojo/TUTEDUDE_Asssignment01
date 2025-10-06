@@ -2,6 +2,13 @@
 
 This repository contains my submission for **TUTEDUDE Assignment 01**, created as part of my Python learning journey.
 
+## 🧠 Program Functionality
+These programs are written in Python and perform the following tasks respectively:
+
+1. **Takes numerical input and performs various mathematical operations and generate a systematic output**
+
+2. **Takes user's name as input and generates a personalised greeting**
+
 ## 📝 Project Description
 These projects demonstrates basic Python programming concepts such as:
 - Mathemetical operations (addition, subtraction, multiplication, and division).
